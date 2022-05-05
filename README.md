@@ -1,2 +1,4 @@
-# thalesBack
-Technical test for thales, backend.
+# thalesBack technical test for Thales
+
+Developed with JDK 1.8
+
